@@ -1,0 +1,20 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Elev8 Logo</title>
+  <desc id="desc">Stylized wordmark reading elev8 with a purple, pink, orange, and blue gradient</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="160" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="35%" stop-color="#EC4899"/>
+      <stop offset="70%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#g)">
+    <path d="M6 27.5C6 20.6 11.1 16 18.2 16C21.9 16 24.6 17.3 26.4 19.6L22.4 22.2C21.4 21 20 20.4 18.2 20.4C14.9 20.4 12.6 22.7 12.6 26C12.6 29.3 14.9 31.6 18.2 31.6C20.1 31.6 21.6 31 22.7 29.8L26.7 32.5C25 34.7 22.2 36 18.2 36C11 36 6 31.1 6 27.5Z"/>
+    <path d="M33.4 17H39.6V36H33.4V17Z"/>
+    <path d="M49.2 17H55.1L60 28.2L64.8 17H70.7L61.8 36H58.2L49.2 17Z"/>
+    <path d="M77.5 17H83.7L88.1 28.3L92.6 17H98.8L90.7 36H85.5L77.5 17Z"/>
+    <path d="M103.2 26.4C103.2 20.6 107.8 16 113.9 16C120 16 124.6 20.6 124.6 26.4C124.6 32.2 120 36.8 113.9 36.8C107.8 36.8 103.2 32.2 103.2 26.4ZM118.4 26.4C118.4 23.3 116.4 21.2 113.9 21.2C111.4 21.2 109.4 23.3 109.4 26.4C109.4 29.5 111.4 31.6 113.9 31.6C116.4 31.6 118.4 29.5 118.4 26.4Z"/>
+    <path d="M131 17H136.9L139.7 25.4L142.5 17H148.4L143.1 31.7C141.3 36.7 137.7 38.6 133.9 38.6C132.2 38.6 130.6 38.4 129.4 38.1L130.4 33.1C131.2 33.3 132 33.4 132.9 33.4C135 33.4 136.4 32.4 137.1 30.5L131 17Z"/>
+  </g>
+</svg>

@@ -12,10 +12,10 @@ export default function Navbar() {
   return (
     <header className="fixed top-0 inset-x-0 z-50">
       <nav className="mx-auto max-w-7xl px-6 py-4 flex items-center justify-between rounded-2xl mt-4 bg-slate-950/70 backdrop-blur border border-white/10">
-        <div className="flex items-center gap-3">
-          <div className="h-8 w-8 rounded-md bg-gradient-to-br from-purple-500 via-pink-500 to-orange-500" />
-          <span className="text-white font-semibold">elev8</span>
-        </div>
+        <a href="#" className="flex items-center gap-3">
+          <img src="/elev8-logo.svg" alt="Elev8" className="h-8 w-auto" />
+          <span className="sr-only">Elev8</span>
+        </a>
         <div className="hidden md:flex items-center gap-6 text-slate-200">
           <button onClick={() => scrollTo('#courses')} className="hover:text-white">Courses</button>
           <button onClick={() => scrollTo('#expertise')} className="hover:text-white">Expertise</button>
